@@ -2,8 +2,8 @@
 
 An Open Source Telegram Rename Bot With Permanent Thumbnail Support Also Have The Future To Convert Files Into Video 
 
-<p align="center">
-    <a href="https://twitter.com/Ch3kUtHaN">
+<p align="left">
+    <a href="https://github.com/No-OnE-Kn0wS-Me/FileRenameBot">
         <img
             src="https://img.shields.io/badge/github-black?&style=for-the-badge&logo=github" 
             alt="Orginal Repo"
