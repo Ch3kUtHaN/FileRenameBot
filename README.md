@@ -2,16 +2,7 @@
 
 An Open Source Telegram Rename Bot With Permanent Thumbnail Support Also Have The Future To Convert Files Into Video 
 
-<p align="left">
-    <a href="https://github.com/No-OnE-Kn0wS-Me/FileRenameBot">
-        <img
-            src="https://img.shields.io/badge/github-black?&style=for-the-badge&logo=github" 
-            alt="Orginal Repo"
-        />
-    </a>
-
 ### Installation
-
 
 ### You can tap the Deploy To Heroku button below to deploy straight to Heroku!
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/No-OnE-Kn0wS-Me/FileRenameBot)
